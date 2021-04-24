@@ -11,11 +11,11 @@
             <ongkir>
                 <active>1</active>
                 <sallowspecific>0</sallowspecific>
-				<model>FalahDev\Ongkir\Model\Carrier\Ongkir</model>
-                <name>FalahDev Ongkir Shipping</name>
+				<model>MrSanjaya\Ongkir\Model\Carrier\Ongkir</model>
+                <name>MrSanjaya Ongkir Shipping</name>
                 <price>0.00</price>
-                <title>FalahDev Ongkir</title>
-               <specificerrmsg>FalahDev Ongkir Shipping is not available for your area. Please contact us.</specificerrmsg>
+                <title>MrSanjaya Ongkir</title>
+               <specificerrmsg>MrSanjaya Ongkir Shipping is not available for your area. Please contact us.</specificerrmsg>
             </ongkir>
         </carriers>
     </default>

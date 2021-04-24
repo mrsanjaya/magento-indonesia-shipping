@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Ced_OngkirSandhy',
+    'MrSanjaya_Ongkir',
     __DIR__
 );

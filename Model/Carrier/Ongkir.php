@@ -1,7 +1,7 @@
 <?php
-namespace FalahDev\Ongkir\Model\Carrier;
+namespace MrSanjaya\Ongkir\Model\Carrier;
 
-use FalahDev\Ongkir\Model\Query\Api as ApiData;
+use MrSanjaya\Ongkir\Model\Query\Api as ApiData;
 use Magento\Quote\Model\Quote\Address\RateRequest;
 
 class Ongkir extends \Magento\Shipping\Model\Carrier\AbstractCarrier implements

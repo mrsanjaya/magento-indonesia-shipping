@@ -1,5 +1,5 @@
 {
-    "name": "ced/ongkir-sandhy",
+    "name": "MrSanjaya/Ongkir",
     "description": "Custom shipping module",
     "require": {
         "php": "~7.2.0||~7.3.0",

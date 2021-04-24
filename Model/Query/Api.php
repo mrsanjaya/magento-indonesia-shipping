@@ -1,5 +1,5 @@
 <?php
-namespace FalahDev\Ongkir\Model\Query;
+namespace MrSanjaya\Ongkir\Model\Query;
 
 use Magento\Framework\HTTP\ZendClientFactory;
 
